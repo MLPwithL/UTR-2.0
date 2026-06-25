@@ -1,5 +1,9 @@
 # UTR 2.0 Factor Reproduction
 
+# Summary check here:
+![Chinese version](outputs/final_report.md)
+![English version](outputs/final_report_en.md)
+
 ## Task
 
 This repository reproduces the Dongwu Securities report on the enhanced turnover factor, **UTR 2.0**. The project rebuilds the factor pipeline, applies practical trading constraints, runs decile backtests, and reports the performance of UTR 1.0, UTR 2.0, Turn20, and STR factors.
