@@ -1,6 +1,5 @@
 # Dongwu Securities UTR 2.0 Factor Reproduction Final Report
 
-- **Reproduction team**: Antigravity Financial Engineering Project Team
 - **Reproduction date**: 2026-06-17
 - **Backtest period**: 2006-01-25 to 2023-03-31, covering 207 months
 - **Rebalancing rule**: strict **T+1 trading-day close execution**. Factors are calculated after the last trading-day close of month T, trades are executed at the first trading-day close of month T+1, and positions are held until the first trading-day close of month T+2.
