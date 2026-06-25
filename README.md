@@ -2,6 +2,7 @@
 
 # Summary check here:
 [Chinese version](outputs/final_report.md)
+
 [English version](outputs/final_report_en.md)
 
 ## Task
