@@ -16,7 +16,7 @@ The backtest uses a strict **T+1 execution lag** to avoid close-price timing loo
 | :---: | :---: |
 | ![Turn20 neutral decile backtest](outputs/Turn20_neutral_decile.png) | ![STR neutral decile backtest](outputs/STR_neutral_decile.png) |
 
-## Repository Structure
+## Repository Structure (All data is subject to confidentiality agreements and therefore cannot be publicly displayed here; only names are listed to help readers understand the project structure and code references.)
 
 ```text
 .
@@ -51,7 +51,6 @@ The backtest uses a strict **T+1 execution lag** to avoid close-price timing loo
 
 - `outputs\final_report.md`: final reproduction report.
 - `outputs\factors.csv`: generated factor panel.
-- `outputs\04_backtest_review.md`: backtest metrics and review.
 - `outputs\*.png`: decile and hedge net value charts.
 
 Raw data files are treated as read-only inputs.
